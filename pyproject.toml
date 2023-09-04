@@ -1,9 +1,11 @@
 [tool.poetry]
 name = "hexlet-code"
-version = "0.5.0"
-description = "difference finder"
+version = "1.0.0"
+description = "gendiff Compares two configuration files and shows a difference."
+classifiers = [
+    "Topic :: Utilities"
+]
 authors = ["Ian Chechin <delnor40rus@gmail.com>"]
-license = "-"
 readme = "README.md"
 packages = [{include = "gendiff"}]
 
