@@ -1,4 +1,4 @@
-### Hexlet tests and linter status:
+### Tests and linter status:
 [![Actions Status](https://github.com/Deln0r/python-project-50/workflows/hexlet-check/badge.svg)](https://github.com/Deln0r/python-project-50/actions)
 [![Actions Status](https://github.com/Deln0r/python-project-50/actions/workflows/pyci.yml/badge.svg)](https://github.com/Delnor/python-project-50/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/f7cbfec6c082003cfec9/maintainability)](https://codeclimate.com/github/Deln0r/python-project-50/maintainability)
