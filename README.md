@@ -2,8 +2,6 @@
 [![Actions Status](https://github.com/Deln0r/python-project-50/workflows/hexlet-check/badge.svg)](https://github.com/Deln0r/python-project-50/actions)
 [![Actions Status](https://github.com/Deln0r/python-project-50/actions/workflows/pyci.yml/badge.svg)](https://github.com/Delnor/python-project-50/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/f7cbfec6c082003cfec9/maintainability)](https://codeclimate.com/github/Deln0r/python-project-50/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/f7cbfec6c082003cfec9/test_coverage)](https://codeclimate.com/github/Deln0r/python-project-50/test_coverage)
-
 
 ### Description
 **Gendiff (Difference generator)** - a CLI tool to distinguish the difference in two JSON and/or YAML files. The output could be in plain text, detailed difference, or be JSON dictionary.
